@@ -22,11 +22,9 @@
 
 <div class="container Alinhar">
 	<br>
-  <h2>Seja Bem-vindo(a)!</h2>
-	<form method="GET>"
-		<a href="index.html">
-			<button type="submit" name="logout" value="Sair" class="btn btn-primary">Sair</button>
-		</a>
+	<h2>Seja Bem-vindo(a)!</h2>
+	<form method="GET>">
+		<input type="submit" name="logout" value="Sair"></input>
 	</form>
 </div>
 </body>
